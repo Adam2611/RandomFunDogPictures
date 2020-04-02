@@ -1,7 +1,7 @@
 {
   "name": "Random Fun Dog Pictures!",
-  "version": "1.0",
-  "description": "Build an Extension!",
+  "version": "2.1",
+  "description": "See Cool and Cute Dog Pictures!",
    "permissions": ["storage"],
 
   "browser_action": {
@@ -13,7 +13,8 @@
   "icons": {
         "16": "icon.png",
         "32": "icon2.png",
-        "64": "icon3.png"
+        "64": "icon3.png",
+        "128": "useicon.png"
       },
   "manifest_version": 2
 }

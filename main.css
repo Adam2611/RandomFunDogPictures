@@ -1,0 +1,19 @@
+img {
+    width: 500px;
+    height: auto;
+    margin: 0px;
+}
+
+
+button {
+    height: 30px;
+    width: 200px;
+    position: relative;
+    left: 150px;
+    background-color: DeepSkyBlue;
+    font-family: Palatino, Helvetica, sans-serif;
+    font-size: 20px;
+    color: red;
+    margin: 10px;
+    border: 2px red; 
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Random Fun Dog Pictures!",
+  "version": "1.0",
+  "description": "Build an Extension!",
+   "permissions": ["storage"],
+
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png"
+    }
+  },
+  "icons": {
+        "16": "icon.png",
+        "32": "icon2.png",
+        "64": "icon3.png"
+      },
+  "manifest_version": 2
+}
